@@ -1,6 +1,6 @@
 # Github
 
-A n d
+Segundo dia.
 
 Arquivo da aula de Git/GitHub
 
